@@ -15,7 +15,7 @@ Folder
 │       └── val
 │           └── #class
 │               └── .jpg
-└── vit_desktop
+└── vit_accuracy.py
 
 env:
 transformers=4.45.2
